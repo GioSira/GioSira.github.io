@@ -62,3 +62,5 @@ img {
 .card-text {
     text-align: center;
 }
+
+ul#pc { list-style-type: disc; }
